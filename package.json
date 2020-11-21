@@ -1,0 +1,17 @@
+{
+  "name": "yautja-repl",
+  "version": "1.0.0",
+  "description": "REPL environment extension for Yautja.",
+  "main": "dist/main.js",
+  "author": "val-verde",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.1.0-dev.20200924"
+  },
+  "scripts": {
+    "compile": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.9"
+  }
+}
